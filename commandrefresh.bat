@@ -1,0 +1,1 @@
+start "C:\Users\ABC\Desktop\Valorant" node deploy-commands.js
